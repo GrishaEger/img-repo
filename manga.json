@@ -1,0 +1,14 @@
+{
+  "name": "My Manga",
+  "author": "Author Name",
+  "artist": "Artist Name",
+  "description": "Description of the manga",
+  "chapters": [
+    {
+      "title": "Chapter 1",
+      "pages": [
+        "https://drive.google.com/uc?export=view&id=1-qE673e4u74xzxyFW9wdQr2sDDj7V3ti"
+      ]
+    }
+  ]
+}
